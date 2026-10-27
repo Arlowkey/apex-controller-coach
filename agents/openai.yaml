@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apex 手柄陪练"
+  short_description: "衔接你的每日手柄训练、打卡与周复盘，按最新项目记录安排下一步"
+  default_prompt: "使用 $apex-controller-coach 开始今天的 Apex 手柄训练。"
